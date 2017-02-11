@@ -1,0 +1,23 @@
+{
+  "name": "js-test-recipes",
+  "version": "1.0.0",
+  "description": "Recipes for Javascript tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardoportilho/js-test-recipes.git"
+  },
+  "keywords": [
+    "test",
+    "javascript"
+  ],
+  "author": "Eduardo <eduardo@portilho.com> (http://www.portilho.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardoportilho/js-test-recipes/issues"
+  },
+  "homepage": "https://github.com/eduardoportilho/js-test-recipes#readme"
+}
