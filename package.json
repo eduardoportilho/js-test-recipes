@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/eduardoportilho/js-test-recipes/issues"
   },
-  "homepage": "https://github.com/eduardoportilho/js-test-recipes#readme"
+  "homepage": "https://github.com/eduardoportilho/js-test-recipes#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "proxyquire": "^1.7.11",
+    "sinon": "^1.17.7"
+  }
 }
