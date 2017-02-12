@@ -12,3 +12,9 @@ function asyncCallWithPromise() {
   })
 }
 
+const mainExport = {
+  asyncCallWithPromise: asyncCallWithPromise
+}
+
+export default mainExport
+module.exports = mainExport // for CommonJS compatibility

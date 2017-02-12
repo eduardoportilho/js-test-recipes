@@ -10,7 +10,7 @@ describe('Testing async call that returns a Promise', function () {
       doSomenthingAsync: sinon.stub()
     }
     let subject = proxyquire('../src/index', {
-      'async': async
+      './async': async
     })
 
     // Instructions:
